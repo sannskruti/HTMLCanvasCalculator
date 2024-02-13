@@ -39,12 +39,8 @@ The top screen displays the entered expression and the result. <br>
 
 <b>Insructions to run the App: </b> <br>
 1. git clone reporsitory with this link : git@github.com:info-6150-fall-2023/assignment-7-Sanskrutii03.git <br>
-2. Open with VS code, navigate to the assignment-7 folder <br>
-3. Open calculator.html file in live server <br>
+2. Open calculator.html file in live server <br>
 
-<b>Prepared by</b> : <br>
-Sanskruti Manoria <br>
-nuid - 002623300 <br>
 
 
 
